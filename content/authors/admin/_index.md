@@ -26,20 +26,23 @@ social:
     icon_pack: fab
     link: https://www.linkedin.com/
 organizations:
-  - name: Stanford University
-    url: https://www.stanford.edu/
+  - name: Ca' Foscari University of Venice
+  - name: European Center for Living Technology
 education:
   courses:
-    - course: PhD in Artificial Intelligence
-      institution: Stanford University
+    - course: PhD in Computer Science
+      institution: Ca' Foscari University of Venice
+      year: 2020
+    - course: PhD in Nanoscience (Machine Learning and Computer Vision)
+      institution: Italian Institute of Technology
+      year: 2016
+    - course: MSc in Computer Science
+      institution: Ca' Foscari University of Venice
       year: 2012
-    - course: MEng in Artificial Intelligence
-      institution: Massachusetts Institute of Technology
+    - course: BSc in Computer Science
+      institution: Ca' Foscari University of Venice
       year: 2009
-    - course: BSc in Artificial Intelligence
-      institution: Massachusetts Institute of Technology
-      year: 2008
-email: ""
+email: sebastiano.vascon@unive.it
 superuser: true
 highlight_name: true
 ---
